@@ -1,1 +1,1 @@
-# JWT-React-Express
+This project aims to develop a comprehensive authentication system that includes login and register functionalities using an API created with Express and MongoDB for the backend, and React for the frontend. The project uses JSON Web Tokens (JWT) to securely manage user sessions.
